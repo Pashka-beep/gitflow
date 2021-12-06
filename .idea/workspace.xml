@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37bc3334-2055-4e44-9946-5f8f9acf4956" name="Changes" comment="" />
+    <list default="true" id="37bc3334-2055-4e44-9946-5f8f9acf4956" name="Changes" comment="Импорт имён" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +51,21 @@
       <option name="presentableId" value="Default" />
       <updated>1638806114855</updated>
     </task>
+    <task id="LOCAL-00001" summary="Импорт имён">
+      <created>1638808099861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638808099861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Импорт имён">
+      <created>1638808243684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638808243684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +79,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Импорт имён" />
+    <option name="LAST_COMMIT_MESSAGE" value="Импорт имён" />
   </component>
 </project>
